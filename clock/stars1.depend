@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1465020494 source:c:\users\Андрей\desktop\Новая папка (5)\stars\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<gl/glut.h>
+
